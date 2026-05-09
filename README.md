@@ -269,8 +269,8 @@ MIT License - see [LICENSE](LICENSE) file
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Mikky-mlh">
-        <img src="https://github.com/Mikky-mlh.png" width="100px;" alt="Yuvraj"/><br />
+      <a href="https://github.com/Yuvraj-Sarathe">
+        <img src="https://github.com/Yuvraj-Sarathe.png" width="100px;" alt="Yuvraj"/><br />
         <sub><b>Yuvraj Sarathe</b></sub>
       </a><br />
       Full-stack development, AI integration, system architecture
